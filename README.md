@@ -5,7 +5,7 @@
 This is the Pytorch implementation for our AAAI 2025 paper:
 
 >AAAI 2025. Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao(2025). Mind Individual Information! Principal Graph Learning for Multimedia Recommendation
-<img src="image/framework.png" width="900px" height="306px"/>
+<img src="image/framework.png" width="900px" height="500px"/>
 
 ## Enviroment Requirement
 - python 3.8
@@ -21,7 +21,7 @@ Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/file
   python main.py
   ```
 ## Performance Comparison
-<img src="image/result.png" width="900px" height="380px"/>
+<img src="image/result.png" width="900px" height="500px"/>
 
 ## Notice
 The code is released for academic research use only. For commercial use, please contact [Penghang Yu](y463213402@gmail.com).
