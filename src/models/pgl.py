@@ -2,7 +2,6 @@
 # @email: y463213402@gmail.com
 r"""
 PGL: Mind Individual Information! Principal Graph Learning for Multimedia Recommendation
-# Update: 10/12/2024
 """
 
 import os
