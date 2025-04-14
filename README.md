@@ -23,7 +23,20 @@ Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/file
 ## Performance Comparison
 <img src="image/result.png" width="700px" height="400px"/>
 
-## Notice
+## Citing MGCN
+If you find PGL useful in your research, please consider citing our [paper](https://doi.org/10.1609/aaai.v39i12.33429).
+```
+@article{yu2025pgl,
+  title={Mind Individual Information! Principal Graph Learning for Multimedia Recommendation},
+  author={Yu, Penghang and Tan, Zhiyi and Lu, Guanming and Bao, Bing-Kun},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  volume={39},
+  number={12},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2025},
+  pages={13096-13105}
+}
+```
 The code is released for academic research use only. For commercial use, please contact [Penghang Yu](y463213402@gmail.com).
 
 ## Acknowledgement
