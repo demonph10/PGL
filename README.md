@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the Pytorch implementation for our AAAI 2025 paper:
+This is the Pytorch implementation for our AAAI 2025 paper [Oral Paper]:
 
 >AAAI 2025. Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao(2025). Mind Individual Information! Principal Graph Learning for Multimedia Recommendation
 <img src="image/framework.png" width="700px" height="400px"/>
