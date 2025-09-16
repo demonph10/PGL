@@ -10,6 +10,7 @@ This is the Pytorch implementation for our AAAI 2025 paper [Oral Paper]:
 ## Enviroment Requirement
 - python 3.8
 - Pytorch 1.12
+- cuda 10.2
 
 ## Dataset
 We provide three processed datasets: Baby, Sports and Clothing.
